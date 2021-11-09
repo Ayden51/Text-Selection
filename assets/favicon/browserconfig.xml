@@ -2,8 +2,8 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="{{ './favicon-76.png | relative_url }}"/>
-      <square150x150logo src="{{ './favicon-228.png | relative_url }}"/>
+      <square70x70logo src="{{ './favicon-76.png' | relative_url }}"/>
+      <square150x150logo src="{{ './favicon-228.png' | relative_url }}"/>
 	<TileColor>#fffffff</TileColor>
     </tile>
   </msapplication>
